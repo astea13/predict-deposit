@@ -23,6 +23,7 @@ def main():
 
     st.title("      Bank Marketing Prediction     ")
     st.write("     by asti     ")
+    st.write("     untuk memprediksi Customer Deposit atau Tidak     ")
 
 
     htk=  """
