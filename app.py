@@ -22,7 +22,7 @@ def main():
     
 
     st.title("      Bank Marketing Prediction     ")
-    
+    st.write("     by asti     ")
 
 
     htk=  """
@@ -31,6 +31,8 @@ def main():
     </div>
     """
    
+
+
     model=st.sidebar.selectbox(
     " ML Model",
     ("nothing","Logistic Regression")
