@@ -3,3 +3,4 @@ Customer response prediction app for subscribing a term deposit using classifier
 # predict
 # predict
 "# predict-deposit" 
+"# predict-deposit" 
